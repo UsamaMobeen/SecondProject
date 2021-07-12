@@ -1,2 +1,3 @@
-# SecondProject
-Learning Project.
+# Second Project
+Learning Project. HelloEveryone.
+  
